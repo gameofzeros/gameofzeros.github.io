@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mountzoft.gameofzeros",
+        "sha256_cert_fingerprints": [
+          "BE:AA:6E:30:A8:E2:43:35:A7:33:85:CA:7E:58:19:3E:F6:A6:43:ED:16:F4:BD:37:E1:26:B1:0A:55:5E:CD:A0"
+        ]
+      }
+    }
+  ]
