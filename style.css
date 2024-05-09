@@ -40,7 +40,7 @@ h6 {
 	z-index: 1030;
 }
 .navbar .active {
-	color: #5f0099 !important;
+	color: #ffcc00 !important;
 }
 .navbar .navbar-brand {
 }
@@ -97,8 +97,8 @@ h6 {
 	position: relative;
 }
 .banner {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #000000;
+	background: linear-gradient(to left, #000000, #3f3f3f);
 	padding:100px 0px;
 	position:relative;
 }
